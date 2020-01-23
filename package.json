@@ -1,0 +1,20 @@
+{
+  "name": "sodatsu-note",
+  "version": "0.0.1",
+  "description": "daily note",
+  "main": "index.js",
+  "authors": {
+    "name": "sodatsu01",
+    "email": "darumasanga.korondaa@gmail.com"
+  },
+  "repository": "/sodatsu-note",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0",
+    "@vuepress/theme-blog": "^1.0.0"
+  }
+}
