@@ -1,5 +1,3 @@
 # sodatsu-note
 
 > daily note
-
-
