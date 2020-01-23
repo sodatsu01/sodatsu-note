@@ -6,12 +6,12 @@ author: sodatsu01
 location: Tokyo  
 ---
 
-# first article for VuePress
+# ニートにもできた！
 
-yumemi_vueでVuePressを初めて知ったので書いてみた
+yumemi.vueでVuePressを初めて知ったので書いてみた
 
-## とりあえず一言
-yumemi.vueさんYouTube配信してくれるの感謝。
-このVuePress+Netlifyとmdx-deckはためしたい。
-あとReactばっか触ってるけどVueもやってみたいなと思いました。
+## とりあえず
+yumemi.vueさんYouTube配信してくれるの感謝。  
+このVuePress+Netlifyとmdx-deckはためしたい。  
+あとReactばっか触ってるけどVueもやってみたいなと思いました。  
 
